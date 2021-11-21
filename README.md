@@ -4,8 +4,8 @@
   <br>
   
   <p>
-  <h4>🖥️ Hoje sou Desenvolvedora Front-End Junior</h4>
-  <h4>✨ Graduanda da 6ª geração da Laboratória</h4>
+  <h4>🖥️ Hoje sou Desenvolvedora Front-End Jr no Zé Delivery</h4>
+  <h4>✨ Graduada na 6ª geração da Laboratória</h4>
   </p>
   <div>
     <img align="right" alt="Camila-GIF" height="150" src="https://www.imagemhost.com.br/images/2021/10/25/ezgif.com-gif-maker.gif" style="max-width: 100%" />
