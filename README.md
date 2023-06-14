@@ -6,6 +6,7 @@
   <p>
   <h4>🖥️ Hoje sou Desenvolvedora Front-End Jr no Zé Delivery</h4>
   <h4>✨ Graduada na 6ª geração da Laboratória</h4>
+  <h4>👩🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas</h4>
   </p>
     <br>
     
