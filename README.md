@@ -1,36 +1,22 @@
-<div id="topo" align="center">
-  <h1>Oie! Eu sou a Camila Conte, muito prazer :orange_heart:</h1>
+<div id="topo">
+	<h3>Hello, i'm Camila Conte! 👩🏻‍💻</h3>
+	
+	🖥️ I'm currently working as a Jr. Software Developer focused on mobile
+	👩🏻‍🎓 Also, i'm an Information Technology college student
+	✨ Graduated in 6ª Laboratória's generation (https://www.laboratoria.la/)
+ </div>
   
-  <br>
-  
-  <p>
-  <h4>🖥️ Hoje sou Desenvolvedora Front-End Jr no Zé Delivery</h4>
-  <h4>✨ Graduada na 6ª geração da Laboratória</h4>
-  <h4>👩🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas</h4>
-  </p>
-    <br>
-    
-   ---
-   
-</div>
-<br>
-
-  <div align="center">
-    <a href="https://github.com/caxconte">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caxconte&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caxconte&layout=compact&langs_count=7&theme=panda"/>
-  </div>
-
-----
-
-<div align="center">
-  <a href="https://instagram.com/caxconte" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:caxconte@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/camila-conte" target="_blank">
+---
+ 
+ <p>
+ <h5>Conecte comigo | Conect with me:</h5>
+   <a href="https://www.linkedin.com/in/camila-conte" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-</div>
+  <a href = "mailto:camila.conte@ze.delivery">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+    <a href="https://instagram.com/caxconte" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  </p>
