@@ -2,7 +2,7 @@
 	<h3>Hello, i'm Camila Conte! 👩🏻‍💻</h3>
 	
 	🖥️ I'm currently working as a Jr. Software Developer focused on mobile
-	👩🏻‍🎓 Also, i'm an Information Technology college student
+	👩🏻‍🎓 Also, i'm an Information Technology college student at UNIVESP
 	✨ Graduated in 6ª Laboratória's generation (https://www.laboratoria.la/)
  </div>
   
