@@ -10,7 +10,7 @@
  
  <p>
  <h5>Conecte comigo | Conect with me:</h5>
-   <a href="https://www.linkedin.com/in/camila-conte" target="_blank">
+   <a href="https://www.linkedin.com/in/caxconte" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href = "mailto:camila.conte@ze.delivery">
