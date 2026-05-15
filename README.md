@@ -1,8 +1,8 @@
 <div id="topo">
 	<h3>Hello, i'm Camila Conte! 👩🏻‍💻</h3>
 	
-	🖥️ I'm currently working as a Jr. Software Developer focused on mobile
-	👩🏻‍🎓 Also, i'm an Information Technology college student at UNIVESP
+	🖥️ I'm currently working as a Software Engineer at Zé Delivery
+	👩🏻‍🎓 Also, i'm an undergraduate student at UNIVESP fishing classes mid/2026
 	✨ Graduated in 6ª Laboratória's generation (https://www.laboratoria.la/)
  </div>
   
