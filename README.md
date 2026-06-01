@@ -1,8 +1,8 @@
 <div id="topo">
 	<h3>Hello, i'm Camila Conte! 👩🏻‍💻</h3>
 	
-	🖥️ I'm currently working as a Software Engineer at Zé Delivery
-	👩🏻‍🎓 Also, i'm an undergraduate student at UNIVESP fishing classes mid/2026
+	🖥️ I'm currently working as a Software Engineer at BEES - Ab-InBev @ DataGen Team
+	👩🏻‍🎓 Also, I have a Bachelor's Degree in Information Technology from UNIVESP.
 	✨ Graduated in 6ª Laboratória's generation (https://www.laboratoria.la/)
  </div>
   
